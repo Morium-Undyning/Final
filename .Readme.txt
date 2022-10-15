@@ -1,0 +1,2 @@
+В UnityPackage находится Unity-проект.
+В Android находится билд на Android.
